@@ -4,7 +4,7 @@ interface User {
     birthday?: string;
 }
 
-const prettyPrintWilder = (users: User[]) => {
+const prettyPrintWilder = (users: User[]):void => {
 
     users.map((user: User) => {
   
