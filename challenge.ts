@@ -15,7 +15,7 @@ const prettyPrintWilder = (users: User[]) => {
   };
   
   
-  const wilders = [];
+  const wilders: User[] = [];
   
   const user1 = { name: "Pierre", age: 23 };
   
