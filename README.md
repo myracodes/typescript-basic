@@ -1,3 +1,3 @@
 # typescript-basic
-introduction to Typescript
-This project is an introduction to Typescript, created while studyng @wildcodeschool
+### Introduction to Typescript
+This project is an introduction to Typescript, created while studying @wildcodeschool
